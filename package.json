@@ -10,7 +10,7 @@
     "mocha": "^5.2.0"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha './katas/spec/*.js'"
   },
   "author": "Lee J. Roberts",
   "license": "ISC"
