@@ -1,5 +1,4 @@
 // testing for roman numeral generation
-require('mocha');
 const expect = require('chai').expect;
 const romanNum = require('../romanNumerals');
 
